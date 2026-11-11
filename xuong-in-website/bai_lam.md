@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:Trần ĐỨc Tài**
 - **Lớp:HNKS26CNTT3**
-- **Link repository:**
+- **Link repository:https://github.com/TranDucTaiCNTT3/HN-KS26-CNTT3_Nhap-mon-CNTT_Hackathon02-.git**
 - **Hệ điều hành (Windows/macOS):Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
